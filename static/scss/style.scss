@@ -11,3 +11,29 @@
 :root {
   font-family: "Edu VIC WA NT Beginner", cursive;
 }
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: .8rem 0;
+  background-color: cornflowerblue;
+  color: white;
+
+  &__menu {
+    display: flex;
+    gap: 2rem;
+    li, a {
+      list-style-type: none;
+      text-decoration: none;
+      color: white;
+    } 
+  }
+}
+
+
+.container {
+  margin: 10px 10rem;
+}
