@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap");
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Edu VIC WA NT Beginner", cursive;
+}
+
+/*# sourceMappingURL=style.css.map */
